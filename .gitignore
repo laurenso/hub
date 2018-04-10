@@ -18,3 +18,9 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
+.mysql.exe
+start
+bat.exe
+c/program files/mysql/job/edition/framework
+finish
+
